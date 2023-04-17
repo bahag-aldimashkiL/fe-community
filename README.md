@@ -1,4 +1,4 @@
-# BAUHAUS fe-community (BFE)
+# BAUHAUS Frontend Community (BFE)
 
 > "If you're already a front-end developer, well, pretend you're also wearing a pirate hat." -Ethan Marcotte
 
