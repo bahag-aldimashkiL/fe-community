@@ -3,6 +3,7 @@
 > "If you're already a front-end developer, well, pretend you're also wearing a pirate hat." -Ethan Marcotte
 
 ## WELCOME TO THE BFE COMMUNITY!
+
 It's never easy arriving in a new location, so we are here to help you get caught up and feeling like home.
 Once inside the BFE Community checkout [#welcome](welcome.md) for a walkthrough of our community rules, and how to get the best help possible from our community. Most of the time the first thing a member does is to introduce themselves in the [#introduction](introduction.md) page.
 
@@ -22,3 +23,11 @@ There is plenty to do and to learn here so stay tuned and check the following pa
 - :calendar: [Events](./events.md)
 - :chart_with_upwards_trend: [Community health check](./community-health-check.md)
 - :video_game: [Gaming](./gaming.md)
+
+## New joinees 
+
+If you completed the following tasks then welcome to our BAUHAUS Frontend Community :heart_eyes: and we look forward to your active participation in our community :eyes: :mega:
+
+- [ ] Check the welcome page
+- [ ] Add yourself to introduction page
+- [ ] Browse our workspace and have fun

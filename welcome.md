@@ -4,9 +4,11 @@ This is a place for people enhance their skills, and meet others around the comp
 :green_book: Code Of Conduct
 The [Code of Conduct](./code-of-conduct.md) applies to EVERYONE in ALL BFE Community spaces, including:
 <ul>
+  <li style="list-style-type: none">🔸 General</li>
   <li style="list-style-type: none">🔸 Angular Enginners</li>
   <li style="list-style-type: none">🔸 React Engineers</li>
   <li style="list-style-type: none">🔸 Flutter Engineers</li>
+  <li style="list-style-type: none">🔸 News</li>
 </ul>
 Participants violating our Code of Conduct may be penalized or expelled at the discretion of community management.
 
